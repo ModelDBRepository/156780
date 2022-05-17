@@ -12,3 +12,6 @@ Parameters for the user to play with:
 2. connectivity = 0 or 1, whether the cells are interconnected or not
 3. modelnum = 1 to 6, referring to the different biophysical models
 4. condition = simulation condition, see comments in file for options
+
+---
+2022-05-17: fix ProbAMPANMDA2 for Neuron9.0
